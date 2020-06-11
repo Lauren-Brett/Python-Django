@@ -11,3 +11,5 @@ class Album(models.Model):
     year = models.IntegerField()
     stock_level = models.IntegerField()
     artist = models.ForeignKey(Artist, on_delete=models.CASCADE)
+
+    
