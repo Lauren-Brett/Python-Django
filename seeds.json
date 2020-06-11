@@ -5,7 +5,7 @@
     "fields": {
       "name": "U2"
     }
-  },
+    },
   {
   "model": "inventory.Artist",
   "pk": 2,
