@@ -5,7 +5,9 @@
 Creating a record shop inventory.
 
 
-
+<br/>
+<br/>
+<br/>
 
 ### Day 1 - Python Fundamentals
 Introduction to Python
@@ -23,9 +25,8 @@ Testing
 Debugging
 
 Optional Lab
-
- 
-
+<br/>
+<br/>
 ### Day 2 - Advanced Python
 OOP
 
@@ -40,8 +41,8 @@ Decorators
 Handling files using OOP
 
 Lab
-
- 
+<br/>
+<br/>
 ### Day 3 - Flask and SqlAlchemy
 Environment
 
@@ -52,8 +53,8 @@ Flask Templates
 Intro to SQLAlchemy
 
 SQLAlchemy and Flask
-
-
+<br/>
+<br/>
 ### Day 4 - Django
 Django
 
