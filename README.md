@@ -1,11 +1,10 @@
-# Python-Django
-Creating a record shop inventory
-
-
 # 4 day Python Course:
 As part of a 4 day introduction to Python.
 
-Day 1 - Python Fundamentals
+## Python-Django
+Creating a record shop inventory
+
+### Day 1 - Python Fundamentals
 Introduction to Python
 
 Variables & Types
