@@ -1,8 +1,11 @@
-# 4 day Python Course:
-As part of a 4 day introduction to Python.
+# 4 day Python Course.
+ As part of a 4 day introduction to Python.
 
 ## Python-Django
-Creating a record shop inventory
+Creating a record shop inventory.
+
+
+
 
 ### Day 1 - Python Fundamentals
 Introduction to Python
@@ -23,7 +26,7 @@ Optional Lab
 
  
 
-Day 2 - Advanced Python
+### Day 2 - Advanced Python
 OOP
 
 Inheritance
@@ -39,7 +42,7 @@ Handling files using OOP
 Lab
 
  
-Day 3 - Flask and SqlAlchemy
+### Day 3 - Flask and SqlAlchemy
 Environment
 
 Intro to Flask
@@ -51,7 +54,7 @@ Intro to SQLAlchemy
 SQLAlchemy and Flask
 
 
-Day 4 - Django
+### Day 4 - Django
 Django
 
 Django Forms
